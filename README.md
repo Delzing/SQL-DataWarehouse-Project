@@ -38,4 +38,4 @@ This project is licensed under the MIT License. You are free to use, modify and 
 
 🧑‍💻About Me
 
-Hi there! I am Tunde Babalola. I am an IT professional willing to engage with businesses that recognise the need for data analysis in decision making
+Hi there! I am **Tunde Babalola**. I am an IT professional willing to engage with businesses that recognise the need for data analysis in decision making
